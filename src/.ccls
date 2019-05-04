@@ -1,0 +1,10 @@
+-I/home/rik/.virtualenvs/pytorch-1.0/lib/python3.7/site-packages/torch/lib/include/
+-I/home/rik/.virtualenvs/pytorch-1.0/lib/python3.7/site-packages/torch/lib/include
+-I/home/rik/.virtualenvs/pytorch-1.0/lib/python3.7/site-packages/torch/lib/include/torch/csrc/api/include
+-I/home/rik/.virtualenvs/pytorch-1.0/lib/python3.7/site-packages/torch/lib/include/TH
+-I/home/rik/.virtualenvs/pytorch-1.0/lib/python3.7/site-packages/torch/lib/include/THC
+-I/usr/include/python3.7m
+-DTORCH_API_INCLUDE_EXTENSION_H
+-DTORCH_EXTENSION_NAME=dtw
+-D_GLIBCXX_USE_CXX11_ABI=0
+-std=c++11
